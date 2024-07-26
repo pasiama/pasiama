@@ -22,5 +22,12 @@
 
 
 
-[![pasiama's GitHub | Stats](https://stats.quira.sh/pasiama/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pasiama)        [![pasiama's GitHub | Topics Over Time](https://stats.quira.sh/pasiama/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pasiama)
+[![pasiama's GitHub | Stats](https://stats.quira.sh/pasiama/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pasiama)       
+
+
+
+[![pasiama's GitHub | Topics Over Time](https://stats.quira.sh/pasiama/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pasiama)
+
+
+
 [![pasiama's GitHub | Languages Over Time](https://stats.quira.sh/pasiama/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pasiama)
